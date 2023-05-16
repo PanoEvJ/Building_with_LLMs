@@ -14,7 +14,7 @@ This week we'll be fine-tuning [DistilBERT](https://arxiv.org/pdf/1910.01108.pdf
 
 ### Notebook 📓
 
-We'll be working out of this notebook for this assignment: [Building a Simple Classifier](https://colab.research.google.com/drive/1eTLNfx5scJ2kN-tkv1rwnnOTvsTCee84?usp=sharing)
+We'll be working out of this notebook for this assignment: [Building a Simple Classifier](https://colab.research.google.com/drive/15aT-Z6pitXZbMhw7DG_j9Lx4l9TtE5nt?usp=sharing)
 
 ### PreReqs ⚠️:
 
