@@ -18,5 +18,5 @@ In this workshop, you will deploy three applications in three weeks, including y
 ## 🧪 Technical Requirements and Prerequisites
 This workshop is intended for software engineers, data scientists, ML engineers, or others who have strong Python skills and have working experience deploying applications. Before the workshop, you should: 
 - [ ] Create an account on Hugging Face and be familiar with Hugging Face Datasets, Models, and Spaces. We recommend checking out our [Zero to Deployment Adventure Guide](https://docs.google.com/presentation/d/1rmIxwbNLiUcb_4pDDdlCQ5RvfP4-LcnrHeEey_MQDAg/edit?usp=sharing) from our recent Building Generative AI Applications Workshop, and checking out the [Hugging Face Course](https://huggingface.co/learn/nlp-course/chapter1/1) for more information.
-Create a [Google Colab Pro account](https://colab.research.google.com/), which is what we will be using for demos during the workshop. 
+- [ ] Create a [Google Colab Pro account](https://colab.research.google.com/), which is what we will be using for demos during the workshop. 
 
