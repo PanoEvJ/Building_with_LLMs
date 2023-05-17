@@ -76,7 +76,8 @@ https://clipdrop.co/stable-diffusion
 cool picture of lion
 ```
 
-<img width="552" alt="image" src="https://github.com/ai-kadhim/prompts/assets/37101144/bfb6db81-f3f3-41d9-bd83-823d4ab34b66">
+![image](https://github.com/FourthBrain/Building-With-LLMs/assets/37101144/9f892bc1-189d-4198-847f-4976793a20a2)
+
 
 
 ##### Advanced Prompt 
@@ -84,7 +85,8 @@ cool picture of lion
 lion in 2d low poly, blue and yellow theme, artistic, side profile, aggressive eyes
 ```
 
-<img width="552" alt="image" src="https://github.com/ai-kadhim/prompts/assets/37101144/5f1a0ad6-8f07-486a-a246-b7191e2d7b4a">
+![image](https://github.com/FourthBrain/Building-With-LLMs/assets/37101144/13134e8b-7aec-47b2-af27-95ec9d57f798)
+
 
 
 ## Midjourney
@@ -94,7 +96,8 @@ lion in 2d low poly, blue and yellow theme, artistic, side profile, aggressive e
 Woman wearing bomber jacket
 ```
 
-![image](https://github.com/ai-kadhim/prompts/assets/37101144/0101fec0-204f-4298-a253-a91941a69b40)
+![image](https://github.com/FourthBrain/Building-With-LLMs/assets/37101144/ff3260ae-5cf1-46a9-84c6-bf4369dc5116)
+
 
 
 ##### Advanced Prompt
@@ -103,4 +106,5 @@ paradigm shift, as models wield the power to shoot, wearing bomber jacket Photog
 
 Credit: [Timarella](https://www.linkedin.com/in/timarella/)
 
-![image](https://github.com/ai-kadhim/prompts/assets/37101144/aafa5273-514d-45de-9cf5-ca570ef984b3)
+![image](https://github.com/FourthBrain/Building-With-LLMs/assets/37101144/dbaaa289-07dc-4d32-9c7f-f355fc446703)
+
