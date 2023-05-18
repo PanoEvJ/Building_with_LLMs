@@ -21,6 +21,12 @@ We're going to take advantage of [LoRA](https://arxiv.org/abs/2106.09685) throug
  
 Please complete the steps outlined in the `prework` folder.
 
+### 📓 Notebooks
+
+Assignment Notebook: [Here](https://colab.research.google.com/drive/1RfUuzG11Q8AaZuJIHLzXCVC087xoDeSd?usp=sharing)
+
+Completed Notebook: [Here](https://colab.research.google.com/drive/1ARmlaZZaKyAg6HTi57psFLPeh0hDRcPX?usp=sharing)
+
 ### APIs and Libraries to Look Into:
 
 - PEFT (linked above)
