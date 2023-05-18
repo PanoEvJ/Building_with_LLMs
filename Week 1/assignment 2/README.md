@@ -27,6 +27,8 @@ Assignment Notebook: [Here](https://colab.research.google.com/drive/1RfUuzG11Q8A
 
 Completed Notebook: [Here](https://colab.research.google.com/drive/1ARmlaZZaKyAg6HTi57psFLPeh0hDRcPX?usp=sharing)
 
+Synthetic Data Generation Notebook: [Here](https://colab.research.google.com/drive/1nsyT9ssUWUWTc_TQ2rykuVtedA7QobA-?usp=sharing)
+
 ### APIs and Libraries to Look Into:
 
 - PEFT (linked above)
