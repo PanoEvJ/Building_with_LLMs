@@ -41,3 +41,7 @@ Please complete the steps outlined in the `prework` folder.
     - Specifically [AutoTokenizer](https://huggingface.co/docs/transformers/v4.29.1/en/model_doc/auto#transformers.AutoTokenizer), [AutoConfig](https://huggingface.co/docs/transformers/v4.29.1/en/model_doc/auto#transformers.AutoTokenizer), [AutoModelForCausalLM](https://huggingface.co/docs/transformers/v4.29.1/en/model_doc/auto#transformers.AutoTokenizer), [Trainer](https://huggingface.co/docs/transformers/v4.29.1/en/model_doc/auto#transformers.AutoTokenizer), [TrainingArguments](https://huggingface.co/docs/transformers/v4.29.1/en/model_doc/auto#transformers.AutoTokenizer)
 - [OpenAI's Python Library](https://github.com/openai/openai-python)
 - Hugging Face's [datasets](https://huggingface.co/docs/datasets/index)
+
+### Deep Dive on LoRA Theory:
+
+[Video Here](https://youtu.be/dA-NhCtrrVE)
