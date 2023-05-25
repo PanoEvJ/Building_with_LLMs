@@ -22,6 +22,9 @@ While you don't need to be an expert in the following pre-work steps - it would 
 
 ## :notebook: Notebooks
 
-- [Assignment Notebook](https://colab.research.google.com/drive/12b_a3un0779jfRJxAJbK5JbWEZVH6YcV?usp=sharing)
+The following notebooks are the official assignment notebooks, while we provide a more advanced notebook below - we'll be focusing on these Open Source examples in class.
+- [Open Source Assignment Notebook](https://colab.research.google.com/drive/12b_a3un0779jfRJxAJbK5JbWEZVH6YcV?usp=sharing)
+- [Open Source Solution Notebook](https://colab.research.google.com/drive/1nz_P1dG1hpE2WIJ6Y2CKIO4BKhh-vlVH?usp=sharing)
 
-- [Solution Notebook](https://colab.research.google.com/drive/1nz_P1dG1hpE2WIJ6Y2CKIO4BKhh-vlVH?usp=sharing)
+This notebook is a more advanced application of LangChain's Agents, Tools, and Memory. 
+- [OpenAI Powered Agent with Memory Solution](https://colab.research.google.com/drive/1Q5DlOU0TYVtOOm7f-CeWbDoQBPutESHt?usp=sharing)
