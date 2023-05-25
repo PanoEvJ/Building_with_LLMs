@@ -14,7 +14,7 @@
 
 This is a simplified version of the full LangChain application diagram!
 
-![](ASK A QUESTION.png)
+![image](https://github.com/FourthBrain/Building-With-LLMs/assets/19699016/1ea9c31a-a7e6-48ed-87b4-cafee3b26587)
 
 ### Notebook 📓
 
