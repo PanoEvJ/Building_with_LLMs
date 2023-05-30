@@ -12,4 +12,5 @@ By the end of this week you should have a more in-depth understanding of Evaluat
 As this is a space rife with innovation and uncertainty - we'll be exploring some major evaluation frameworks.
 
 - General Evaluation using Perplexity/AI Human Feedback: [Notebook Here](https://colab.research.google.com/drive/1dFu_BKHdZJAW-J9ycaTWPpCZpUlN-JVW?usp=sharing)
-
+- Eleuther AI Evaluation Harness: [Notebook Here](https://colab.research.google.com/drive/1CsaPpqsB21QgQxhJpV22SgwryFFapDBP?usp=sharing)
+- Stanford's HELM: [Notebook Here](https://colab.research.google.com/drive/1Xx1i5uC6cAddtedHIXO4JWWNoimbNOuT?usp=sharing)
